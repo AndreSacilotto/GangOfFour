@@ -1,0 +1,21 @@
+The desing patterns of GOF were made in 1994, in this not even java was a thing. With that said I belive that some patterns are useless with the new tools that majority of new languages have today.
+
+So here is my list of probaly usefull patterns (in 2020):
+
+Abstract Factory
+Factory
+Prototype*
+Singleton
+
+Adapter
+Facade
+Flyweight
+
+Command
+Iterator*
+Observer
+State
+Strategy*
+
+
+When a pattern have a "*" that mean the pattern is already implemented in some form in the c# language.

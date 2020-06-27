@@ -1,0 +1,24 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Behavioral_Patterns - Copy\**" />
+    <Compile Remove="NewFolder\**" />
+    <EmbeddedResource Remove="Behavioral_Patterns - Copy\**" />
+    <EmbeddedResource Remove="NewFolder\**" />
+    <None Remove="Behavioral_Patterns - Copy\**" />
+    <None Remove="NewFolder\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="GAME_Patterns\Behavioral_Patterns\" />
+    <Folder Include="GAME_Patterns\Decoupling Patterns\" />
+    <Folder Include="GAME_Patterns\Optimization Patterns\" />
+    <Folder Include="GAME_Patterns\Sequencing_Patterns\" />
+  </ItemGroup>
+
+</Project>

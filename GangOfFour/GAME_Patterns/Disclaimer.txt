@@ -1,0 +1,8 @@
+﻿1- The classes inside this folder are not from the book "Gang Of Four" (1994).
+
+2- I don't know if this patterns are official patterns
+
+3- All about this patterns can be found in this site:
+https://gameprogrammingpatterns.com/contents.html
+
+4- You have been warned!!!

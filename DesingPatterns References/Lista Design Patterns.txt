@@ -1,0 +1,53 @@
+Table of Design Patterns
+	
+	Creational Patterns:
+Abstract Factory
+Builder
+Factory
+Prototype
+Singleton
+
+	Structural Patterns:
+Adapter
+Bridge
+Composite
+Decorator
+Facade
+Flyweight
+Proxy
+
+	Behavioral Patterns:
+Chain of Responsibility
+Command
+Interpreter
+Iterator
+Mediator
+Memento
+Observer
+State
+Strategy
+Template
+Visitor
+
+
+GAME ONLY PATTERNS:
+	Sequencing Patterns:
+Double Buffer
+Game Loop
+Update Method
+
+	Behavioral Patterns
+Bytecode
+Subclass Sandbox
+Type Object
+
+	Decoupling Patterns
+Component
+Event Queue
+Service Locator
+
+	Optimization Patterns
+Data Locality
+Dirty Flag
+Object Pool
+Spatial Partition
